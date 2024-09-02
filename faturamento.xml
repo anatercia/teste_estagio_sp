@@ -1,0 +1,1467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Data>2024-01-01 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-01-02 00:00:00</Data>
+    <Faturamento>74004.97</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-03 00:00:00</Data>
+    <Faturamento>26331.5</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-04 00:00:00</Data>
+    <Faturamento>53373.94</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-05 00:00:00</Data>
+    <Faturamento>1457.5</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-06 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-01-07 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-01-08 00:00:00</Data>
+    <Faturamento>3342.14</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-09 00:00:00</Data>
+    <Faturamento>95694.93</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-10 00:00:00</Data>
+    <Faturamento>13720.93</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-11 00:00:00</Data>
+    <Faturamento>28382.84</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-12 00:00:00</Data>
+    <Faturamento>60608.32</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-13 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-01-14 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-01-15 00:00:00</Data>
+    <Faturamento>225.92</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-16 00:00:00</Data>
+    <Faturamento>52122.6</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-17 00:00:00</Data>
+    <Faturamento>55203.76</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-18 00:00:00</Data>
+    <Faturamento>48537.74</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-19 00:00:00</Data>
+    <Faturamento>76813.42</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-20 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-01-21 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-01-22 00:00:00</Data>
+    <Faturamento>2080.98</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-23 00:00:00</Data>
+    <Faturamento>13521.02</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-24 00:00:00</Data>
+    <Faturamento>11627.3</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-25 00:00:00</Data>
+    <Faturamento>30989.76</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-26 00:00:00</Data>
+    <Faturamento>67145.26</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-27 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-01-28 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-01-29 00:00:00</Data>
+    <Faturamento>28958.68</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-30 00:00:00</Data>
+    <Faturamento>73312.6</Faturamento>
+  </row>
+  <row>
+    <Data>2024-01-31 00:00:00</Data>
+    <Faturamento>70262.24</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-01 00:00:00</Data>
+    <Faturamento>32756.95</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-02 00:00:00</Data>
+    <Faturamento>33464.75</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-03 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-02-04 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-02-05 00:00:00</Data>
+    <Faturamento>95031.35</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-06 00:00:00</Data>
+    <Faturamento>76747.57</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-07 00:00:00</Data>
+    <Faturamento>82500.93</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-08 00:00:00</Data>
+    <Faturamento>40664.03</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-09 00:00:00</Data>
+    <Faturamento>45130.84</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-10 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-02-11 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-02-12 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-02-13 00:00:00</Data>
+    <Faturamento>96259.69</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-14 00:00:00</Data>
+    <Faturamento>41925.03</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-15 00:00:00</Data>
+    <Faturamento>42405.24</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-16 00:00:00</Data>
+    <Faturamento>46314.89</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-17 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-02-18 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-02-19 00:00:00</Data>
+    <Faturamento>3516.83</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-20 00:00:00</Data>
+    <Faturamento>8427.27</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-21 00:00:00</Data>
+    <Faturamento>73252.07</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-22 00:00:00</Data>
+    <Faturamento>63620.0</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-23 00:00:00</Data>
+    <Faturamento>2790.78</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-24 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-02-25 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-02-26 00:00:00</Data>
+    <Faturamento>5502.0</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-27 00:00:00</Data>
+    <Faturamento>52324.61</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-28 00:00:00</Data>
+    <Faturamento>41636.97</Faturamento>
+  </row>
+  <row>
+    <Data>2024-02-29 00:00:00</Data>
+    <Faturamento>4821.87</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-01 00:00:00</Data>
+    <Faturamento>57240.45</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-02 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-03-03 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-03-04 00:00:00</Data>
+    <Faturamento>27711.72</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-05 00:00:00</Data>
+    <Faturamento>64167.81</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-06 00:00:00</Data>
+    <Faturamento>49273.73</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-07 00:00:00</Data>
+    <Faturamento>50655.61</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-08 00:00:00</Data>
+    <Faturamento>46144.03</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-09 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-03-10 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-03-11 00:00:00</Data>
+    <Faturamento>60335.56</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-12 00:00:00</Data>
+    <Faturamento>44387.19</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-13 00:00:00</Data>
+    <Faturamento>48004.68</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-14 00:00:00</Data>
+    <Faturamento>88844.75</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-15 00:00:00</Data>
+    <Faturamento>20850.05</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-16 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-03-17 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-03-18 00:00:00</Data>
+    <Faturamento>59515.25</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-19 00:00:00</Data>
+    <Faturamento>3115.11</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-20 00:00:00</Data>
+    <Faturamento>66525.74</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-21 00:00:00</Data>
+    <Faturamento>63738.55</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-22 00:00:00</Data>
+    <Faturamento>86246.52</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-23 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-03-24 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-03-25 00:00:00</Data>
+    <Faturamento>66995.76</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-26 00:00:00</Data>
+    <Faturamento>92433.07</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-27 00:00:00</Data>
+    <Faturamento>61942.35</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-28 00:00:00</Data>
+    <Faturamento>32258.57</Faturamento>
+  </row>
+  <row>
+    <Data>2024-03-29 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-03-30 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-03-31 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-04-01 00:00:00</Data>
+    <Faturamento>40595.83</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-02 00:00:00</Data>
+    <Faturamento>94655.58</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-03 00:00:00</Data>
+    <Faturamento>85719.06</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-04 00:00:00</Data>
+    <Faturamento>68892.77</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-05 00:00:00</Data>
+    <Faturamento>328.8</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-06 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-04-07 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-04-08 00:00:00</Data>
+    <Faturamento>590.94</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-09 00:00:00</Data>
+    <Faturamento>64292.61</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-10 00:00:00</Data>
+    <Faturamento>38521.7</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-11 00:00:00</Data>
+    <Faturamento>59574.19</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-12 00:00:00</Data>
+    <Faturamento>61080.71</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-13 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-04-14 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-04-15 00:00:00</Data>
+    <Faturamento>6987.37</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-16 00:00:00</Data>
+    <Faturamento>80073.42</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-17 00:00:00</Data>
+    <Faturamento>91143.41</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-18 00:00:00</Data>
+    <Faturamento>19467.46</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-19 00:00:00</Data>
+    <Faturamento>21060.76</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-20 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-04-21 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-04-22 00:00:00</Data>
+    <Faturamento>88517.77</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-23 00:00:00</Data>
+    <Faturamento>20215.43</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-24 00:00:00</Data>
+    <Faturamento>41901.48</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-25 00:00:00</Data>
+    <Faturamento>64795.92</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-26 00:00:00</Data>
+    <Faturamento>51164.3</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-27 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-04-28 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-04-29 00:00:00</Data>
+    <Faturamento>13543.51</Faturamento>
+  </row>
+  <row>
+    <Data>2024-04-30 00:00:00</Data>
+    <Faturamento>19171.08</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-01 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-05-02 00:00:00</Data>
+    <Faturamento>78684.45</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-03 00:00:00</Data>
+    <Faturamento>25380.82</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-04 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-05-05 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-05-06 00:00:00</Data>
+    <Faturamento>12638.73</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-07 00:00:00</Data>
+    <Faturamento>60500.54</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-08 00:00:00</Data>
+    <Faturamento>29012.19</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-09 00:00:00</Data>
+    <Faturamento>62652.94</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-10 00:00:00</Data>
+    <Faturamento>65947.6</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-11 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-05-12 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-05-13 00:00:00</Data>
+    <Faturamento>33472.41</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-14 00:00:00</Data>
+    <Faturamento>17750.64</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-15 00:00:00</Data>
+    <Faturamento>800.33</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-16 00:00:00</Data>
+    <Faturamento>1043.84</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-17 00:00:00</Data>
+    <Faturamento>59745.88</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-18 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-05-19 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-05-20 00:00:00</Data>
+    <Faturamento>96861.83</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-21 00:00:00</Data>
+    <Faturamento>87358.26</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-22 00:00:00</Data>
+    <Faturamento>91278.4</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-23 00:00:00</Data>
+    <Faturamento>16989.83</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-24 00:00:00</Data>
+    <Faturamento>31680.79</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-25 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-05-26 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-05-27 00:00:00</Data>
+    <Faturamento>54394.34</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-28 00:00:00</Data>
+    <Faturamento>40545.44</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-29 00:00:00</Data>
+    <Faturamento>74241.03</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-30 00:00:00</Data>
+    <Faturamento>64373.3</Faturamento>
+  </row>
+  <row>
+    <Data>2024-05-31 00:00:00</Data>
+    <Faturamento>65934.34</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-01 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-06-02 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-06-03 00:00:00</Data>
+    <Faturamento>64144.76</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-04 00:00:00</Data>
+    <Faturamento>29823.1</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-05 00:00:00</Data>
+    <Faturamento>37582.79</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-06 00:00:00</Data>
+    <Faturamento>98862.79</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-07 00:00:00</Data>
+    <Faturamento>34459.49</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-08 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-06-09 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-06-10 00:00:00</Data>
+    <Faturamento>61839.27</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-11 00:00:00</Data>
+    <Faturamento>1335.34</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-12 00:00:00</Data>
+    <Faturamento>57443.28</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-13 00:00:00</Data>
+    <Faturamento>77767.95</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-14 00:00:00</Data>
+    <Faturamento>94988.21</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-15 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-06-16 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-06-17 00:00:00</Data>
+    <Faturamento>24660.15</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-18 00:00:00</Data>
+    <Faturamento>41893.87</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-19 00:00:00</Data>
+    <Faturamento>63203.15</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-20 00:00:00</Data>
+    <Faturamento>9547.03</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-21 00:00:00</Data>
+    <Faturamento>39030.92</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-22 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-06-23 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-06-24 00:00:00</Data>
+    <Faturamento>96918.24</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-25 00:00:00</Data>
+    <Faturamento>74341.8</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-26 00:00:00</Data>
+    <Faturamento>51768.93</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-27 00:00:00</Data>
+    <Faturamento>16448.0</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-28 00:00:00</Data>
+    <Faturamento>94938.16</Faturamento>
+  </row>
+  <row>
+    <Data>2024-06-29 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-06-30 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-07-01 00:00:00</Data>
+    <Faturamento>5103.86</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-02 00:00:00</Data>
+    <Faturamento>77494.02</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-03 00:00:00</Data>
+    <Faturamento>10589.52</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-04 00:00:00</Data>
+    <Faturamento>90539.59</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-05 00:00:00</Data>
+    <Faturamento>58788.65</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-06 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-07-07 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-07-08 00:00:00</Data>
+    <Faturamento>62985.0</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-09 00:00:00</Data>
+    <Faturamento>77628.13</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-10 00:00:00</Data>
+    <Faturamento>25981.75</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-11 00:00:00</Data>
+    <Faturamento>63891.31</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-12 00:00:00</Data>
+    <Faturamento>82680.0</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-13 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-07-14 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-07-15 00:00:00</Data>
+    <Faturamento>53100.3</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-16 00:00:00</Data>
+    <Faturamento>94597.81</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-17 00:00:00</Data>
+    <Faturamento>99927.37</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-18 00:00:00</Data>
+    <Faturamento>67092.36</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-19 00:00:00</Data>
+    <Faturamento>78957.61</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-20 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-07-21 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-07-22 00:00:00</Data>
+    <Faturamento>2628.7</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-23 00:00:00</Data>
+    <Faturamento>74644.28</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-24 00:00:00</Data>
+    <Faturamento>61658.81</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-25 00:00:00</Data>
+    <Faturamento>9920.47</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-26 00:00:00</Data>
+    <Faturamento>52190.27</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-27 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-07-28 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-07-29 00:00:00</Data>
+    <Faturamento>24843.85</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-30 00:00:00</Data>
+    <Faturamento>18034.92</Faturamento>
+  </row>
+  <row>
+    <Data>2024-07-31 00:00:00</Data>
+    <Faturamento>58382.31</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-01 00:00:00</Data>
+    <Faturamento>15391.86</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-02 00:00:00</Data>
+    <Faturamento>71172.76</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-03 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-08-04 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-08-05 00:00:00</Data>
+    <Faturamento>26512.96</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-06 00:00:00</Data>
+    <Faturamento>39703.27</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-07 00:00:00</Data>
+    <Faturamento>51301.6</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-08 00:00:00</Data>
+    <Faturamento>34420.42</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-09 00:00:00</Data>
+    <Faturamento>54560.23</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-10 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-08-11 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-08-12 00:00:00</Data>
+    <Faturamento>21535.78</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-13 00:00:00</Data>
+    <Faturamento>78830.88</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-14 00:00:00</Data>
+    <Faturamento>77584.89</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-15 00:00:00</Data>
+    <Faturamento>4172.6</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-16 00:00:00</Data>
+    <Faturamento>64548.54</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-17 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-08-18 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-08-19 00:00:00</Data>
+    <Faturamento>29152.34</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-20 00:00:00</Data>
+    <Faturamento>82584.51</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-21 00:00:00</Data>
+    <Faturamento>9735.24</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-22 00:00:00</Data>
+    <Faturamento>89751.19</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-23 00:00:00</Data>
+    <Faturamento>34198.91</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-24 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-08-25 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-08-26 00:00:00</Data>
+    <Faturamento>8443.78</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-27 00:00:00</Data>
+    <Faturamento>74022.66</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-28 00:00:00</Data>
+    <Faturamento>36373.78</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-29 00:00:00</Data>
+    <Faturamento>33356.12</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-30 00:00:00</Data>
+    <Faturamento>10642.47</Faturamento>
+  </row>
+  <row>
+    <Data>2024-08-31 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-09-01 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-09-02 00:00:00</Data>
+    <Faturamento>11262.23</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-03 00:00:00</Data>
+    <Faturamento>48392.56</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-04 00:00:00</Data>
+    <Faturamento>93148.84</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-05 00:00:00</Data>
+    <Faturamento>39885.52</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-06 00:00:00</Data>
+    <Faturamento>18039.2</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-07 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-09-08 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-09-09 00:00:00</Data>
+    <Faturamento>61343.51</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-10 00:00:00</Data>
+    <Faturamento>12388.22</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-11 00:00:00</Data>
+    <Faturamento>35154.15</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-12 00:00:00</Data>
+    <Faturamento>47309.98</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-13 00:00:00</Data>
+    <Faturamento>37838.53</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-14 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-09-15 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-09-16 00:00:00</Data>
+    <Faturamento>14282.81</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-17 00:00:00</Data>
+    <Faturamento>72942.51</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-18 00:00:00</Data>
+    <Faturamento>12301.16</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-19 00:00:00</Data>
+    <Faturamento>31977.8</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-20 00:00:00</Data>
+    <Faturamento>39165.96</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-21 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-09-22 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-09-23 00:00:00</Data>
+    <Faturamento>17064.9</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-24 00:00:00</Data>
+    <Faturamento>77031.22</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-25 00:00:00</Data>
+    <Faturamento>23919.85</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-26 00:00:00</Data>
+    <Faturamento>74717.01</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-27 00:00:00</Data>
+    <Faturamento>34749.42</Faturamento>
+  </row>
+  <row>
+    <Data>2024-09-28 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-09-29 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-09-30 00:00:00</Data>
+    <Faturamento>23297.59</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-01 00:00:00</Data>
+    <Faturamento>42097.48</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-02 00:00:00</Data>
+    <Faturamento>67654.35</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-03 00:00:00</Data>
+    <Faturamento>60534.53</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-04 00:00:00</Data>
+    <Faturamento>60868.05</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-05 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-10-06 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-10-07 00:00:00</Data>
+    <Faturamento>88905.64</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-08 00:00:00</Data>
+    <Faturamento>17868.13</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-09 00:00:00</Data>
+    <Faturamento>38790.35</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-10 00:00:00</Data>
+    <Faturamento>90763.46</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-11 00:00:00</Data>
+    <Faturamento>45213.16</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-12 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-10-13 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-10-14 00:00:00</Data>
+    <Faturamento>16090.21</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-15 00:00:00</Data>
+    <Faturamento>86375.18</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-16 00:00:00</Data>
+    <Faturamento>1386.26</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-17 00:00:00</Data>
+    <Faturamento>7409.32</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-18 00:00:00</Data>
+    <Faturamento>37591.57</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-19 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-10-20 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-10-21 00:00:00</Data>
+    <Faturamento>14348.03</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-22 00:00:00</Data>
+    <Faturamento>64165.55</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-23 00:00:00</Data>
+    <Faturamento>53910.55</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-24 00:00:00</Data>
+    <Faturamento>82991.42</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-25 00:00:00</Data>
+    <Faturamento>26912.49</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-26 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-10-27 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-10-28 00:00:00</Data>
+    <Faturamento>24185.54</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-29 00:00:00</Data>
+    <Faturamento>45621.41</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-30 00:00:00</Data>
+    <Faturamento>11648.2</Faturamento>
+  </row>
+  <row>
+    <Data>2024-10-31 00:00:00</Data>
+    <Faturamento>59980.66</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-01 00:00:00</Data>
+    <Faturamento>83663.49</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-02 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-11-03 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-11-04 00:00:00</Data>
+    <Faturamento>58152.94</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-05 00:00:00</Data>
+    <Faturamento>51469.03</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-06 00:00:00</Data>
+    <Faturamento>77671.62</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-07 00:00:00</Data>
+    <Faturamento>67209.73</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-08 00:00:00</Data>
+    <Faturamento>16378.75</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-09 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-11-10 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-11-11 00:00:00</Data>
+    <Faturamento>56670.16</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-12 00:00:00</Data>
+    <Faturamento>50910.31</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-13 00:00:00</Data>
+    <Faturamento>45377.85</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-14 00:00:00</Data>
+    <Faturamento>99101.13</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-15 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-11-16 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-11-17 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-11-18 00:00:00</Data>
+    <Faturamento>47820.43</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-19 00:00:00</Data>
+    <Faturamento>82862.44</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-20 00:00:00</Data>
+    <Faturamento>92942.55</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-21 00:00:00</Data>
+    <Faturamento>82876.51</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-22 00:00:00</Data>
+    <Faturamento>2676.7</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-23 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-11-24 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-11-25 00:00:00</Data>
+    <Faturamento>33397.23</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-26 00:00:00</Data>
+    <Faturamento>37730.12</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-27 00:00:00</Data>
+    <Faturamento>81828.09</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-28 00:00:00</Data>
+    <Faturamento>19805.31</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-29 00:00:00</Data>
+    <Faturamento>17602.6</Faturamento>
+  </row>
+  <row>
+    <Data>2024-11-30 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-01 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-02 00:00:00</Data>
+    <Faturamento>31084.89</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-03 00:00:00</Data>
+    <Faturamento>41158.36</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-04 00:00:00</Data>
+    <Faturamento>22526.33</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-05 00:00:00</Data>
+    <Faturamento>27060.29</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-06 00:00:00</Data>
+    <Faturamento>10721.77</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-07 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-08 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-09 00:00:00</Data>
+    <Faturamento>63385.17</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-10 00:00:00</Data>
+    <Faturamento>36043.79</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-11 00:00:00</Data>
+    <Faturamento>486.27</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-12 00:00:00</Data>
+    <Faturamento>24722.09</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-13 00:00:00</Data>
+    <Faturamento>82990.72</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-14 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-15 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-16 00:00:00</Data>
+    <Faturamento>97473.75</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-17 00:00:00</Data>
+    <Faturamento>65236.23</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-18 00:00:00</Data>
+    <Faturamento>65615.56</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-19 00:00:00</Data>
+    <Faturamento>92751.63</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-20 00:00:00</Data>
+    <Faturamento>93302.26</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-21 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-22 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-23 00:00:00</Data>
+    <Faturamento>27894.97</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-24 00:00:00</Data>
+    <Faturamento>48092.5</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-25 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-26 00:00:00</Data>
+    <Faturamento>50888.26</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-27 00:00:00</Data>
+    <Faturamento>37527.32</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-28 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-29 00:00:00</Data>
+    <Faturamento/>
+  </row>
+  <row>
+    <Data>2024-12-30 00:00:00</Data>
+    <Faturamento>97852.98</Faturamento>
+  </row>
+  <row>
+    <Data>2024-12-31 00:00:00</Data>
+    <Faturamento>62153.82</Faturamento>
+  </row>
+</data>
